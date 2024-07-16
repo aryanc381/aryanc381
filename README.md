@@ -1,3 +1,10 @@
+# <h1 align="center">Hi 👋, I'm Aryan Chauhan</h1>
+<h3 align="center">I'm a developing Data Scientist from Pune</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc381&label=Profile%20views&color=0e75b6&style=flat" alt="aryanc381" /> </p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
