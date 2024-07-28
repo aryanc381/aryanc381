@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aryan Chauhan</h1>
-<h3 align="center">An Aspiring Data Scientist from India</h3>
+<h3 align="center">A developing Data Scientist from India</h3>
 
 ## 🌐 Connect with me:
 <p align="center">
