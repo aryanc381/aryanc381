@@ -28,24 +28,23 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanc381&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" alt="Aryan's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanc381&theme=shadow_red&hide_border=false" alt="Aryan's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc381&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aryan's Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanc381&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="Aryan's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanc381&theme=radical&hide_border=true" alt="Aryan's GitHub Streak" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc381&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Aryan's Top Languages" height="180em"/>
+</div>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aryanc381&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aryanc381&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" height="180em"/>
+</div>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
