@@ -1,7 +1,5 @@
-aryanc381/README.md
-
 I'm relearning my fundamentals to not touch grass when the ai-tools are not around.
-I'm currently playing around with:
+Currently playing around with:
   1. express.
   2. react.
   3. aws.
