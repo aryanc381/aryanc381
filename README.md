@@ -1,4 +1,4 @@
-I'm increasing my engineering depth by coding w/o ai.
+I'm currently increasing my engineering depth by coding w/o ai.
 
 Currently playing around with:
   1. kubernetes.
