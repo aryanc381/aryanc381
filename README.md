@@ -1,8 +1,8 @@
-I'm currently increasing my engineering depth by coding w/o ai.
+I'm currently building systems at NCIndia to scale it to 100Cr.
 
 Currently playing around with:
   1. kubernetes.
-  2. grpc.
-  3. tailscale
+  2. docker.
+  3. temporal.
   4. openclaw.
-  5. github ci/cd.
+  5. ai-sdk's.
